@@ -38,7 +38,7 @@ El flujo de procesamiento sigue las siguientes etapas:
 
 En el siguiente enlace se encuentra la grabación en video donde se explica la arquitectura del flujo en el canvas de Dify, la configuración del nodo de recuperación y la validación en tiempo real de las respuestas en scope y out-of-scope:
 
-* **Enlace al video de demostración (Loom):** [Insertar enlace de Loom aquí]
+* [**Enlace al video de demostración:**](https://youtu.be/ttoOXzQLXg4)
 
 ---
 
